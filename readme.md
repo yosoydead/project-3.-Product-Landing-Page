@@ -2,10 +2,10 @@ Objective: Build a CodePen.io app that is functionally similar to this: https://
 ## source: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
 
 To do's:
-1. [ ] 1. My product landing page should have a ```header``` element with a corresponding ```id="header"```.
-2. [ ] 2. I can see an image within the ```header``` element with a corresponding ```id="header-img"```. A company logo would make a good image here.
-3. [ ] 3. Within the #header element I can see a ```nav``` element with a corresponding ```id="nav-bar"```.
-4. [ ] 4. I can see at least three clickable elements inside the ```nav``` element, each with the class ```nav-link```.
+1. [x] 1. My product landing page should have a ```header``` element with a corresponding ```id="header"```.
+2. [x] 2. I can see an image within the ```header``` element with a corresponding ```id="header-img"```. A company logo would make a good image here.
+3. [x] 3. Within the #header element I can see a ```nav``` element with a corresponding ```id="nav-bar"```.
+4. [x] 4. I can see at least three clickable elements inside the ```nav``` element, each with the class ```nav-link```.
 5. [ ] 5. When I click a ```.nav-link``` button in the ```nav``` element, I am taken to the corresponding section of the landing page.
 6. [ ] 6. I can watch an embedded product video with ```id="video"```.
 7. [ ] 7. My landing page has a form element with a corresponding ```id="form"```.
