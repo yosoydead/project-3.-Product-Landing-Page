@@ -14,7 +14,7 @@ To do's:
 10. [x] 10. The ```#email``` input field uses HTML5 validation to confirm that the entered text is an email address.
 11. [x] 11. Within the form, there is a submit `input` with a corresponding ```id="submit"```.
 12. [x] 12. When I click the ```#submit``` element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit) that confirms the email address was entered and that it posted successfully.
-13. [ ] 13. The navbar should always be at the top of the viewport.
-14. [ ] 14. My product landing page should have at least one media query.
-15. [ ] 15. My product landing page should utilize CSS flexbox at least once.
+13. [x] 13. The navbar should always be at the top of the viewport.
+14. [x] 14. My product landing page should have at least one media query.
+15. [x] 15. My product landing page should utilize CSS flexbox at least once.
 16. [ ] 16. You can build your project by forking [this CodePen](https://codepen.io/freeCodeCamp/full/MJjpwO) pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
