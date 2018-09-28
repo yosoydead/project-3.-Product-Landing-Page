@@ -17,4 +17,6 @@ To do's:
 13. [x] 13. The navbar should always be at the top of the viewport.
 14. [x] 14. My product landing page should have at least one media query.
 15. [x] 15. My product landing page should utilize CSS flexbox at least once.
-16. [ ] 16. You can build your project by forking [this CodePen](https://codepen.io/freeCodeCamp/full/MJjpwO) pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+16. [x] 16. You can build your project by forking [this CodePen](https://codepen.io/freeCodeCamp/full/MJjpwO) pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+
+The codepen [link](https://codepen.io/yosoydead/pen/QZWJJb). It's nothing too special.
